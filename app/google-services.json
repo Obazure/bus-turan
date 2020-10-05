@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "533833747718",
+    "firebase_url": "https://busturan-dced8.firebaseio.com",
+    "project_id": "busturan-dced8",
+    "storage_bucket": "busturan-dced8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533833747718:android:92775c784dfce282",
+        "android_client_info": {
+          "package_name": "com.example.navigator.busturan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533833747718-ohv6n8c1bv0pc4h8n8t1a221uvhhhsp2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.navigator.busturan",
+            "certificate_hash": "b23d9df6c8ba000b018b5eea7adbbbc40669303d"
+          }
+        },
+        {
+          "client_id": "533833747718-g6d6epvars00t1uhn91l0uq9fj6k68he.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjNkOm-7wsIk3840krYP-pcVYiVo9eX-E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533833747718-g6d6epvars00t1uhn91l0uq9fj6k68he.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
